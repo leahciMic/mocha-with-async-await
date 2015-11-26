@@ -1,12 +1,12 @@
 {
-  "name": "test-mocha",
+  "name": "mocha-with-async-await",
+  "private": true,
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Experiment with mocha using async/awit using the babel transpiler",
   "scripts": {
     "test": "mocha"
   },
-  "author": "",
+  "author": "Michael Leaney <leahcimic@gmail.com>",
   "license": "ISC",
   "devDependencies": {
     "babel-core": "^6.2.1",
